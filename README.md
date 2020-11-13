@@ -17,7 +17,7 @@ and greatest distance from the negative-ideal solution.
 
 ## How to install this package:
 ```
->> pip install TOPSIS-Samridhi=101803011
+>> pip install TOPSIS-Samridhi-101803011
 ```
 
 
